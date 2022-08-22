@@ -13,8 +13,8 @@
     display: flex;
     flex-direction: row;
     border: solid 2px yellowgreen;
-    width: 400px;
-    height: 160px;
+    width: 350px;
+    height: 180px;
     justify-content: center;
     align-items: center;
     text-align: center ;
@@ -25,7 +25,7 @@
     display: flex;
     flex-direction: column;
     border: solid 2px yellowgreen;
-    width: 400px;
+    width: 350px;
     height: 200px;
     justify-content: center;
     align-items: center;
@@ -40,7 +40,7 @@
     align-items: center;
     text-align: center; 
     border: solid 4px rebeccapurple;
-    width:500px;
+    width:400px;
     height: 630px;
     margin-left: 420px;
     margin-top: 50px;
